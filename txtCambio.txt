@@ -1,0 +1,6 @@
+Esto es un Archivo para los siguientes comandos:
+add
+commit
+push
+pull request
+
