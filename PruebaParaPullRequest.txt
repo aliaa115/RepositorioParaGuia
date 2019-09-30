@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 cambio XD
-=======
 
 Cambio para pull request
->>>>>>> master
