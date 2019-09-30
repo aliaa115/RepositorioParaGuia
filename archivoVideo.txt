@@ -1,2 +1,2 @@
 Este es un archivo que se crea para la prueba de colaboradores externos en GitHub y Git
-
+Este es un cambio para comprobar el pull push de colaboradores externos en GitHub y Git
