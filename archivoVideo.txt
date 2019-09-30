@@ -1,4 +1,4 @@
-Este es un archivo que se crea para la prueba de colaboradores externos en GitHub y Git
+Cambio en merge 
 Este es un cambio para comprobar el pull push de colaboradores externos en GitHub y Git
 Cabio indicado para realizar en Video de prueba
 
